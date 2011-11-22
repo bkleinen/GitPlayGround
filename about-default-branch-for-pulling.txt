@@ -1,0 +1,8 @@
+add this to .git/config:
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+see
+http://stackoverflow.com/questions/658885/how-do-you-get-git-to-always-pull-from-a-specific-branch
+
+
